@@ -1,0 +1,21 @@
+{
+  "name": "syedhasni_currency_converter",
+  "version": "1.0.3",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "./app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "syedalinaqihasni",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
